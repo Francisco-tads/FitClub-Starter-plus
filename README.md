@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://fitclubstarter07.pages.dev/
+https://fitclub-starter07.pages.dev/
 
 O projeto FitClub-Starter-plus é uma aplicação Web e mobile, desenvolvido com React Native, ele está hospedado no Cloudflare, e toda sua estrutura de código, pode ser visualizada também no Github.
  [FitClub-Starter-plus](https://fitclubstarter07.pages.dev/ "Site do FitClub-Starter-plus").
